@@ -29,15 +29,4 @@ adapters.py     load real NSE/BSE downloads (unverified column mapping - see doc
 app/dashboard.py   overview, alert investigator (price chart + SHAP + rules), ring network, model performance
 ```
 
-## Project layout
-```
-run_pipeline.py   REPORT.md   
-src/itd/…         app/dashboard.py   tests/   experiments/multi_seed.py   docs/real_data_adapter.md
-data/             generated CSVs (public-style files + hidden ground_truth_*)
-outputs/          scored_trades.csv, shap_values.csv, alerts_top200.csv, rings.csv, metrics*.csv, figures/
-```
 
-
-## Notes on regulations used
-* Disclosure threshold ₹10 lakh and 2-trading-day hops (person → company → exchange): SEBI PIT Reg. 7(2).
-* Trading window closed from quarter-end until 48 hours after results; 6-month contra-trade restriction: Code of Conduct, Schedule B.
