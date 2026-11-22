@@ -1,0 +1,66 @@
+{
+  "Ensemble (final)": {
+    "roc_auc": 0.9871,
+    "pr_auc": 0.8226,
+    "precision@25": 0.96,
+    "precision@50": 0.94,
+    "precision@100": 0.78,
+    "recall@top5%": 0.8269
+  },
+  "Isolation Forest": {
+    "roc_auc": 0.979,
+    "pr_auc": 0.7634,
+    "precision@25": 0.96,
+    "precision@50": 0.9,
+    "precision@100": 0.74,
+    "recall@top5%": 0.7981
+  },
+  "Local Outlier Factor": {
+    "roc_auc": 0.628,
+    "pr_auc": 0.1308,
+    "precision@25": 0.28,
+    "precision@50": 0.26,
+    "precision@100": 0.17,
+    "recall@top5%": 0.2404
+  },
+  "Autoencoder": {
+    "roc_auc": 0.9564,
+    "pr_auc": 0.7029,
+    "precision@25": 1.0,
+    "precision@50": 0.88,
+    "precision@100": 0.64,
+    "recall@top5%": 0.7212
+  },
+  "SEBI rules only": {
+    "roc_auc": 0.9854,
+    "pr_auc": 0.6676,
+    "precision@25": 0.92,
+    "precision@50": 0.76,
+    "precision@100": 0.64,
+    "recall@top5%": 0.7692
+  },
+  "Baseline: trade size": {
+    "roc_auc": 0.7343,
+    "pr_auc": 0.0672,
+    "precision@25": 0.0,
+    "precision@50": 0.02,
+    "precision@100": 0.03,
+    "recall@top5%": 0.0577
+  },
+  "Baseline: post-trade CAR": {
+    "roc_auc": 0.8618,
+    "pr_auc": 0.2776,
+    "precision@25": 0.52,
+    "precision@50": 0.4,
+    "precision@100": 0.33,
+    "recall@top5%": 0.375
+  },
+  "Supervised GBM (CV, reference)": {
+    "roc_auc": 0.9962,
+    "pr_auc": 0.934,
+    "precision@25": 1.0,
+    "precision@50": 1.0,
+    "precision@100": 0.88,
+    "recall@top5%": 0.9615
+  }
+}

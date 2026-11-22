@@ -1,0 +1,929 @@
+event_id,date,symbol,category,subject
+EV00144,2022-05-05,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00496,2022-05-05,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00110,2022-05-06,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00718,2022-05-06,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00634,2022-05-06,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00677,2022-05-06,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00277,2022-05-06,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00605,2022-05-09,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00305,2022-05-09,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00832,2022-05-09,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00188,2022-05-09,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00348,2022-05-09,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00015,2022-05-09,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00819,2022-05-09,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00081,2022-05-09,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00202,2022-05-09,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00173,2022-05-10,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00869,2022-05-10,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00851,2022-05-10,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00048,2022-05-10,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00887,2022-05-11,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00319,2022-05-12,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00619,2022-05-13,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00365,2022-05-16,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00548,2022-05-16,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00804,2022-05-16,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00663,2022-05-16,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00418,2022-05-16,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00564,2022-05-16,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00904,2022-05-16,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00770,2022-05-16,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00096,2022-05-16,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00065,2022-05-16,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00515,2022-05-16,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00691,2022-05-17,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00453,2022-05-17,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00230,2022-05-17,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00753,2022-05-18,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00916,2022-05-18,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00215,2022-05-18,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00532,2022-05-20,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00467,2022-05-23,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00333,2022-05-23,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00577,2022-05-23,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00031,2022-05-23,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00158,2022-05-23,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00401,2022-05-23,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00262,2022-05-24,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00650,2022-05-24,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00000,2022-05-24,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00705,2022-05-25,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00436,2022-05-25,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00788,2022-05-26,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00734,2022-05-26,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00290,2022-05-26,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00381,2022-05-26,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00125,2022-05-26,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00592,2022-05-27,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00482,2022-05-30,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00244,2022-05-30,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022
+EV00533,2022-07-25,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00349,2022-07-25,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00278,2022-07-26,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00097,2022-07-26,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00678,2022-07-27,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00159,2022-07-27,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00706,2022-07-27,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00189,2022-07-27,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00635,2022-07-27,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00664,2022-07-27,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00066,2022-07-28,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00905,2022-07-28,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00549,2022-07-28,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00145,2022-07-28,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00419,2022-07-29,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00578,2022-07-29,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00263,2022-08-01,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00454,2022-08-01,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00870,2022-08-01,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00231,2022-08-01,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00888,2022-08-01,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00719,2022-08-01,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00651,2022-08-01,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00032,2022-08-02,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00216,2022-08-02,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00382,2022-08-02,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00016,2022-08-02,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00852,2022-08-03,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00402,2022-08-03,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00334,2022-08-03,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00111,2022-08-04,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00692,2022-08-04,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00483,2022-08-05,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00126,2022-08-05,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00291,2022-08-08,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00468,2022-08-08,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00565,2022-08-08,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00320,2022-08-08,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00001,2022-08-08,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00620,2022-08-08,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00754,2022-08-08,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00789,2022-08-09,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00245,2022-08-09,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00771,2022-08-09,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00497,2022-08-09,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00805,2022-08-09,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00606,2022-08-09,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00082,2022-08-09,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00203,2022-08-10,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00833,2022-08-10,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00174,2022-08-10,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00437,2022-08-11,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00366,2022-08-11,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00735,2022-08-11,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00049,2022-08-12,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00593,2022-08-12,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00516,2022-08-15,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00820,2022-08-15,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00917,2022-08-15,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00306,2022-08-15,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022
+EV00264,2022-10-03,JALMET,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00736,2022-10-14,SHIALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00127,2022-10-25,CHAMOT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00438,2022-10-25,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00720,2022-10-25,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00693,2022-10-25,SAHSYS,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00665,2022-10-25,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00517,2022-10-25,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00033,2022-10-26,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00821,2022-10-26,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00636,2022-10-26,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00350,2022-10-26,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00889,2022-10-27,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00834,2022-10-28,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00265,2022-10-28,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00160,2022-10-28,GARREN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00721,2022-10-28,SATREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00002,2022-10-31,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00550,2022-10-31,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00853,2022-10-31,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00455,2022-10-31,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00083,2022-10-31,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00050,2022-10-31,ARASTE,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00806,2022-10-31,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00918,2022-10-31,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00161,2022-10-31,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00279,2022-10-31,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00772,2022-10-31,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00420,2022-10-31,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00652,2022-11-01,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00246,2022-11-01,JALFOO,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00469,2022-11-01,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00403,2022-11-01,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00051,2022-11-01,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00175,2022-11-01,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00383,2022-11-02,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00247,2022-11-02,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00190,2022-11-02,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00484,2022-11-02,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00335,2022-11-03,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00367,2022-11-03,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00694,2022-11-03,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00737,2022-11-03,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00128,2022-11-04,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00217,2022-11-04,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00112,2022-11-07,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00906,2022-11-07,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00594,2022-11-07,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00067,2022-11-07,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00204,2022-11-07,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00666,2022-11-07,RUDCON,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00607,2022-11-07,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00566,2022-11-07,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00052,2022-11-07,ARASTE,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00146,2022-11-08,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00707,2022-11-08,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00579,2022-11-09,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00129,2022-11-09,CHAMOT,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00755,2022-11-09,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00113,2022-11-09,CHAINF,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00621,2022-11-09,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00679,2022-11-11,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00232,2022-11-11,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00017,2022-11-11,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00498,2022-11-14,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00098,2022-11-14,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00534,2022-11-14,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00871,2022-11-14,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00292,2022-11-14,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00790,2022-11-14,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00307,2022-11-14,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00321,2022-11-14,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022
+EV00130,2022-11-16,CHAMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00499,2022-11-21,MERFIN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00807,2022-11-21,SUNALL,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00191,2022-11-23,HAMSTE,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00131,2022-11-23,CHAMOT,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00791,2022-11-25,SHIREN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00580,2022-12-02,PALALL,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00835,2022-12-05,VAJFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00680,2022-12-07,RUDSTE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00384,2022-12-12,MAHAUT,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00738,2022-12-13,SHIALL,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00308,2022-12-23,KAVSTE,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00890,2022-12-26,VININF,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00595,2022-12-28,PALCOM,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00637,2023-01-03,RUDAUT,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00162,2023-01-04,GARREN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00891,2023-01-05,VININF,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00099,2023-01-25,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00322,2023-01-25,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00756,2023-01-25,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00351,2023-01-26,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00336,2023-01-26,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00266,2023-01-26,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00653,2023-01-26,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00596,2023-01-27,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00722,2023-01-27,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00233,2023-01-27,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00695,2023-01-27,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00581,2023-01-30,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00248,2023-01-30,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00822,2023-01-30,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00622,2023-01-30,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00681,2023-01-30,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00551,2023-01-30,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00907,2023-01-30,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00280,2023-01-31,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00053,2023-01-31,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00485,2023-01-31,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00872,2023-01-31,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00708,2023-02-01,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00836,2023-02-01,VAJFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00114,2023-02-01,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00535,2023-02-01,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00018,2023-02-01,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00567,2023-02-02,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00176,2023-02-02,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00608,2023-02-02,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00892,2023-02-02,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00068,2023-02-02,BHACON,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00808,2023-02-02,SUNALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00792,2023-02-02,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00132,2023-02-03,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00500,2023-02-03,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00809,2023-02-03,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00293,2023-02-06,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00404,2023-02-06,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00919,2023-02-06,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00470,2023-02-06,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00609,2023-02-06,PALCRE,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00421,2023-02-06,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00003,2023-02-06,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00084,2023-02-07,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00147,2023-02-07,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00163,2023-02-08,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00385,2023-02-08,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00837,2023-02-08,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00192,2023-02-08,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00218,2023-02-08,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00439,2023-02-08,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00368,2023-02-09,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00069,2023-02-09,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00456,2023-02-09,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00638,2023-02-10,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00854,2023-02-10,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00034,2023-02-10,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00739,2023-02-10,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00773,2023-02-13,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00518,2023-02-13,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00471,2023-02-13,MALFIN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00004,2023-02-13,AMBLIF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00309,2023-02-13,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00035,2023-02-13,ARAFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00205,2023-02-13,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00667,2023-02-13,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022
+EV00723,2023-02-15,SATREN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00774,2023-02-22,SHIREA,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00519,2023-02-23,MERLIF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00405,2023-02-24,MAHCAP,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00267,2023-02-24,JALMET,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00177,2023-03-01,GODSOF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00873,2023-03-03,VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00793,2023-03-10,SHIREN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00838,2023-03-10,VAJFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00874,2023-03-15,VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00536,2023-03-16,NARMOT,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00520,2023-03-21,MERLIF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00148,2023-03-21,DECMOT,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00422,2023-03-22,MAHMET,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00423,2023-03-23,MAHMET,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00855,2023-04-04,VAJHEA,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00036,2023-04-10,ARAFOO,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00249,2023-04-11,JALFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00610,2023-04-13,PALCRE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00740,2023-04-13,SHIALL,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00856,2023-04-20,VAJHEA,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00369,2023-04-21,LOHLAB,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00250,2023-04-26,JALFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00552,2023-04-27,NARSYS,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00521,2023-05-05,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00019,2023-05-05,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00757,2023-05-05,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00323,2023-05-08,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00486,2023-05-08,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00352,2023-05-08,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00501,2023-05-08,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00133,2023-05-08,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00179,2023-05-08,GODSOF,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00149,2023-05-08,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00115,2023-05-08,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00070,2023-05-08,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00597,2023-05-08,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00178,2023-05-08,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00582,2023-05-09,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00406,2023-05-09,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00709,2023-05-10,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00268,2023-05-10,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00794,2023-05-10,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00294,2023-05-10,KAVAGR,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00611,2023-05-10,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00741,2023-05-10,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00875,2023-05-11,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00823,2023-05-11,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00810,2023-05-11,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00251,2023-05-12,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00295,2023-05-12,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00054,2023-05-12,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00219,2023-05-15,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00775,2023-05-15,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00668,2023-05-15,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00639,2023-05-15,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00005,2023-05-15,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00857,2023-05-15,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00568,2023-05-16,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00164,2023-05-17,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00337,2023-05-18,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00310,2023-05-18,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00839,2023-05-18,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00193,2023-05-18,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00682,2023-05-19,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00234,2023-05-19,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00920,2023-05-19,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00908,2023-05-19,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00440,2023-05-22,MAHREN,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00370,2023-05-22,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00457,2023-05-22,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00037,2023-05-22,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00206,2023-05-22,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00537,2023-05-22,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00386,2023-05-23,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00724,2023-05-24,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00441,2023-05-24,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00893,2023-05-24,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00100,2023-05-25,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00696,2023-05-25,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00085,2023-05-25,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00553,2023-05-25,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00269,2023-05-26,JALMET,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00424,2023-05-26,MAHMET,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00623,2023-05-29,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00281,2023-05-29,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00654,2023-05-29,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00425,2023-05-29,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00472,2023-05-29,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023
+EV00165,2023-06-08,GARREN,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00442,2023-06-12,MAHREN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00876,2023-06-23,VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00353,2023-06-26,LOHINF,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00235,2023-07-04,HIMREN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00371,2023-07-10,LOHLAB,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00038,2023-07-13,ARAFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00134,2023-07-17,CHAMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00407,2023-07-21,MAHCAP,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00921,2023-07-25,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00020,2023-07-25,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00194,2023-07-25,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00071,2023-07-25,BHACON,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00612,2023-07-27,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00840,2023-07-27,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00006,2023-07-27,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00569,2023-07-27,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00824,2023-07-27,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00522,2023-07-27,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00086,2023-07-27,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00116,2023-07-27,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00640,2023-07-28,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00252,2023-07-28,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00894,2023-07-31,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00443,2023-07-31,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00624,2023-07-31,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00282,2023-07-31,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00598,2023-07-31,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00055,2023-07-31,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00426,2023-07-31,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00135,2023-07-31,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00427,2023-08-01,MAHMET,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00858,2023-08-01,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00683,2023-08-01,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00101,2023-08-02,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00220,2023-08-02,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00338,2023-08-02,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00372,2023-08-03,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00538,2023-08-03,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00758,2023-08-03,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00859,2023-08-03,VAJHEA,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00236,2023-08-03,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00387,2023-08-03,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00710,2023-08-04,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00354,2023-08-04,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00725,2023-08-04,SATREN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00697,2023-08-04,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00458,2023-08-04,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00795,2023-08-07,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00655,2023-08-07,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00487,2023-08-07,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00776,2023-08-07,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00909,2023-08-07,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00311,2023-08-07,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00296,2023-08-08,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00324,2023-08-08,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00811,2023-08-09,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00877,2023-08-09,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00166,2023-08-10,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00473,2023-08-10,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00150,2023-08-10,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00742,2023-08-10,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00669,2023-08-10,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00502,2023-08-11,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00554,2023-08-11,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00270,2023-08-14,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00253,2023-08-14,JALFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00039,2023-08-14,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00726,2023-08-14,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00207,2023-08-14,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00583,2023-08-14,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00408,2023-08-14,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00072,2023-08-14,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00180,2023-08-14,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023
+EV00355,2023-08-17,LOHINF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00181,2023-08-28,GODSOF,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00539,2023-08-28,NARMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00777,2023-08-31,SHIREA,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00625,2023-09-04,PALPHA,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00841,2023-09-05,VAJFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00503,2023-09-06,MERFIN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00325,2023-09-08,KONPOW,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00555,2023-09-12,NARSYS,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00373,2023-10-13,LOHLAB,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00021,2023-10-16,AMBMOT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00136,2023-10-17,CHAMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00117,2023-10-20,CHAINF,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00759,2023-10-20,SHIFIN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00922,2023-10-25,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00118,2023-10-25,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00584,2023-10-25,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00297,2023-10-26,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00459,2023-10-26,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00087,2023-10-26,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00374,2023-10-30,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00698,2023-10-30,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00825,2023-10-30,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00613,2023-10-30,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00151,2023-10-30,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00237,2023-10-30,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00271,2023-10-30,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00056,2023-10-30,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00684,2023-10-30,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00474,2023-10-30,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00910,2023-10-31,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00339,2023-10-31,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00842,2023-10-31,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00626,2023-10-31,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00137,2023-11-01,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00812,2023-11-01,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00727,2023-11-02,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00743,2023-11-02,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00428,2023-11-03,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00312,2023-11-03,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00796,2023-11-03,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00040,2023-11-03,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00489,2023-11-06,MERAUT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00488,2023-11-06,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00388,2023-11-06,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00283,2023-11-06,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00022,2023-11-06,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00504,2023-11-06,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00326,2023-11-06,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00540,2023-11-06,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00505,2023-11-07,MERFIN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00409,2023-11-07,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00208,2023-11-07,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00523,2023-11-08,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00895,2023-11-08,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00444,2023-11-08,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00429,2023-11-08,MAHMET,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00711,2023-11-08,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00860,2023-11-08,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00760,2023-11-09,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00221,2023-11-09,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00797,2023-11-09,SHIREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00778,2023-11-10,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00007,2023-11-10,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00570,2023-11-10,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00182,2023-11-10,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00599,2023-11-10,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00254,2023-11-13,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00195,2023-11-13,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00102,2023-11-13,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00073,2023-11-13,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00641,2023-11-13,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00878,2023-11-13,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00670,2023-11-13,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00656,2023-11-13,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00167,2023-11-13,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00356,2023-11-13,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00556,2023-11-13,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023
+EV00445,2023-11-15,MAHREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00627,2023-11-17,PALPHA,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00896,2023-11-20,VININF,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00843,2023-11-28,VAJFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00023,2023-11-29,AMBMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00389,2023-12-07,MAHAUT,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00074,2023-12-18,BHACON,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00041,2023-12-27,ARAFOO,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00152,2023-12-28,DECMOT,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00088,2023-12-29,CHABEV,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00844,2023-12-29,VAJFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00390,2024-01-01,MAHAUT,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00375,2024-01-04,LOHLAB,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00327,2024-01-09,KONPOW,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00313,2024-01-10,KAVSTE,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00340,2024-01-11,LOHALL,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00209,2024-01-17,HIMCAP,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00744,2024-01-23,SHIALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00897,2024-01-25,VININF,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00298,2024-01-26,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00628,2024-01-26,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00391,2024-01-26,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00138,2024-01-29,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00255,2024-01-29,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00376,2024-01-29,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00861,2024-01-29,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00210,2024-01-29,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00446,2024-01-29,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00923,2024-01-29,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00600,2024-01-29,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00671,2024-01-29,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00238,2024-01-30,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00571,2024-01-30,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00475,2024-01-30,MALFIN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00745,2024-01-31,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00879,2024-01-31,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00119,2024-01-31,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00524,2024-01-31,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00057,2024-02-01,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00911,2024-02-01,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00075,2024-02-01,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00168,2024-02-01,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00525,2024-02-01,MERLIF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00103,2024-02-01,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00798,2024-02-02,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00272,2024-02-02,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00490,2024-02-02,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00460,2024-02-02,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00813,2024-02-05,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00341,2024-02-05,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00728,2024-02-05,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00614,2024-02-05,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00585,2024-02-05,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00153,2024-02-05,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00557,2024-02-05,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00284,2024-02-05,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00642,2024-02-05,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00506,2024-02-05,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00392,2024-02-05,MAHAUT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00880,2024-02-05,VINENE,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00008,2024-02-06,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00089,2024-02-06,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00024,2024-02-06,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00657,2024-02-06,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00183,2024-02-06,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00712,2024-02-07,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00430,2024-02-08,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00761,2024-02-08,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00410,2024-02-08,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00042,2024-02-08,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00779,2024-02-08,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00357,2024-02-09,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00222,2024-02-09,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00314,2024-02-09,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00104,2024-02-12,CHACRE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00699,2024-02-12,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00685,2024-02-12,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00223,2024-02-12,HIMFOO,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00196,2024-02-12,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00476,2024-02-12,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00826,2024-02-12,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00898,2024-02-12,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00328,2024-02-12,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00541,2024-02-12,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00845,2024-02-13,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023
+EV00393,2024-02-16,MAHAUT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00780,2024-02-22,SHIREA,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00781,2024-02-23,SHIREA,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00762,2024-02-28,SHIFIN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00411,2024-03-04,MAHCAP,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00629,2024-03-08,PALPHA,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00658,2024-03-15,RUDBEV,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00224,2024-03-19,HIMFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00009,2024-03-21,AMBLIF,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00507,2024-04-04,MERFIN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00862,2024-04-15,VAJHEA,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00090,2024-04-25,CHABEV,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00461,2024-05-01,MALDIG,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00285,2024-05-06,KAKBEV,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00615,2024-05-06,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00686,2024-05-06,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00273,2024-05-06,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00643,2024-05-07,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00342,2024-05-07,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00412,2024-05-07,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00912,2024-05-08,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00799,2024-05-08,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00447,2024-05-09,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00225,2024-05-10,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00729,2024-05-10,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00782,2024-05-10,SHIREA,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00572,2024-05-10,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00924,2024-05-13,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00394,2024-05-13,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00508,2024-05-13,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00542,2024-05-13,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00746,2024-05-13,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00899,2024-05-13,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00526,2024-05-14,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00659,2024-05-14,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00713,2024-05-14,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00586,2024-05-14,PALALL,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00358,2024-05-15,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00763,2024-05-16,SHIFIN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00197,2024-05-16,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00239,2024-05-16,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00105,2024-05-16,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00329,2024-05-17,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00076,2024-05-20,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00120,2024-05-20,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00783,2024-05-20,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00431,2024-05-20,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00881,2024-05-20,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00827,2024-05-20,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00184,2024-05-20,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00462,2024-05-20,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00211,2024-05-20,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00139,2024-05-21,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00025,2024-05-21,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00256,2024-05-21,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00286,2024-05-21,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00477,2024-05-22,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00630,2024-05-22,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00863,2024-05-22,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00672,2024-05-23,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00558,2024-05-23,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00764,2024-05-23,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00377,2024-05-23,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00814,2024-05-24,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00154,2024-05-24,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00043,2024-05-27,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00091,2024-05-27,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00491,2024-05-27,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00587,2024-05-27,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00315,2024-05-27,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00010,2024-05-27,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00700,2024-05-27,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00169,2024-05-27,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00299,2024-05-27,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00058,2024-05-27,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00601,2024-05-28,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00846,2024-05-28,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024
+EV00701,2024-05-29,SAHSYS,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00714,2024-05-30,SATCON,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00492,2024-06-13,MERAUT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00343,2024-06-14,LOHALL,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00687,2024-06-19,RUDSTE,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00847,2024-06-25,VAJFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00395,2024-07-02,MAHAUT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00559,2024-07-08,NARSYS,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00140,2024-07-10,CHAMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00900,2024-07-16,VININF,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00882,2024-07-18,VINENE,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00509,2024-07-22,MERFIN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00573,2024-07-22,NILPOW,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00185,2024-07-25,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00815,2024-07-25,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00359,2024-07-25,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00800,2024-07-25,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00463,2024-07-26,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00574,2024-07-29,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00883,2024-07-29,VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00092,2024-07-29,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00560,2024-07-29,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00510,2024-07-29,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00432,2024-07-29,MAHMET,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00155,2024-07-29,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00901,2024-07-29,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00413,2024-07-29,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00330,2024-07-29,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00644,2024-07-29,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00344,2024-07-30,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00543,2024-07-30,NARMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00925,2024-07-30,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00747,2024-07-30,SHIALL,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00170,2024-07-30,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00884,2024-07-31,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00616,2024-07-31,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00828,2024-07-31,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00212,2024-08-01,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00226,2024-08-01,HIMFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00765,2024-08-01,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00801,2024-08-01,SHIREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00588,2024-08-02,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00287,2024-08-02,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00784,2024-08-05,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00433,2024-08-05,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00141,2024-08-05,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00848,2024-08-05,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00396,2024-08-05,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00106,2024-08-05,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00478,2024-08-05,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00913,2024-08-05,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00715,2024-08-05,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00011,2024-08-05,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00864,2024-08-05,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00527,2024-08-05,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00198,2024-08-05,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00673,2024-08-05,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00257,2024-08-06,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00045,2024-08-06,ARAFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00044,2024-08-06,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00026,2024-08-06,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00748,2024-08-07,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00730,2024-08-07,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00300,2024-08-08,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00448,2024-08-08,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00378,2024-08-09,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00688,2024-08-09,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00660,2024-08-09,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00121,2024-08-12,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00493,2024-08-12,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00077,2024-08-12,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00274,2024-08-12,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00544,2024-08-12,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00316,2024-08-12,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00059,2024-08-12,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00602,2024-08-12,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00414,2024-08-12,MAHCAP,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00702,2024-08-12,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00240,2024-08-12,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00227,2024-08-13,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00631,2024-08-13,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024
+EV00258,2024-08-14,JALFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00107,2024-08-27,CHACRE,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00259,2024-08-28,JALFOO,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00731,2024-08-28,SATREN,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00645,2024-09-06,RUDAUT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00078,2024-09-16,BHACON,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00397,2024-09-20,MAHAUT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00360,2024-09-27,LOHINF,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00766,2024-10-04,SHIFIN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00589,2024-10-08,PALALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00060,2024-10-10,ARASTE,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00361,2024-10-14,LOHINF,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00749,2024-10-16,SHIALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00061,2024-10-22,ARASTE,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00511,2024-10-24,MERFIN,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00914,2024-10-25,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00732,2024-10-25,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00512,2024-10-28,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00703,2024-10-28,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00301,2024-10-28,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00829,2024-10-28,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00171,2024-10-28,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00494,2024-10-28,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00156,2024-10-28,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00902,2024-10-28,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00241,2024-10-28,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00750,2024-10-28,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00317,2024-10-28,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00379,2024-10-29,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00885,2024-10-29,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00479,2024-10-30,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00331,2024-10-30,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00062,2024-10-31,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00661,2024-10-31,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00027,2024-10-31,AMBMOT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00513,2024-10-31,MERFIN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00199,2024-10-31,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00926,2024-10-31,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00545,2024-10-31,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00767,2024-10-31,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00830,2024-10-31,TRIALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00142,2024-11-01,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00785,2024-11-01,SHIREA,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00362,2024-11-04,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00288,2024-11-04,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00363,2024-11-04,LOHINF,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00108,2024-11-04,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00398,2024-11-04,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00617,2024-11-04,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00093,2024-11-04,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00575,2024-11-04,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00603,2024-11-04,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00865,2024-11-04,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00786,2024-11-04,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00716,2024-11-06,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00434,2024-11-06,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00674,2024-11-06,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00802,2024-11-06,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00046,2024-11-06,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00122,2024-11-07,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00528,2024-11-07,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00561,2024-11-07,NARSYS,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback
+EV00228,2024-11-07,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00028,2024-11-08,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00464,2024-11-08,MALDIG,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win
+EV00632,2024-11-08,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00260,2024-11-11,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00646,2024-11-11,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00849,2024-11-11,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00079,2024-11-11,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00465,2024-11-11,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00816,2024-11-11,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00345,2024-11-11,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00449,2024-11-11,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00590,2024-11-11,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00275,2024-11-11,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00562,2024-11-12,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00213,2024-11-13,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00012,2024-11-13,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00186,2024-11-13,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00689,2024-11-13,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00415,2024-11-13,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024
+EV00529,2024-11-21,MERLIF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00242,2024-11-27,HIMREN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00546,2024-11-28,NARMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00866,2024-12-02,VAJHEA,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00302,2024-12-10,KAVAGR,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00416,2024-12-11,MAHCAP,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00480,2024-12-12,MALFIN,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00029,2024-12-16,AMBMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00530,2024-12-20,MERLIF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00346,2024-12-23,LOHALL,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00817,2024-12-24,SUNALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00647,2024-12-26,RUDAUT,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome
+EV00768,2024-12-26,SHIFIN,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00094,2024-12-31,CHABEV,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00200,2024-12-31,HAMSTE,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00450,2025-01-06,MAHREN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00123,2025-01-14,CHAINF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00751,2025-01-14,SHIALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00303,2025-01-23,KAVAGR,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00850,2025-01-27,VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00318,2025-01-27,KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00690,2025-01-27,RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00604,2025-01-27,PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00451,2025-01-27,MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00187,2025-01-27,GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00563,2025-01-27,NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00495,2025-01-27,MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00399,2025-01-27,MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00717,2025-01-27,SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00547,2025-01-27,NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00818,2025-01-28,SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00733,2025-01-28,SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00347,2025-01-28,LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00095,2025-01-28,CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00831,2025-01-29,TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00013,2025-01-29,AMBLIF,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00633,2025-01-29,PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00662,2025-01-29,RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00481,2025-01-29,MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00886,2025-01-29,VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00080,2025-01-30,BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00466,2025-01-30,MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00618,2025-01-31,PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00752,2025-01-31,SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00514,2025-01-31,MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00435,2025-01-31,MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00243,2025-01-31,HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00332,2025-01-31,KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00787,2025-01-31,SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00109,2025-02-03,CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00803,2025-02-03,SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00276,2025-02-03,JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00648,2025-02-03,RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00649,2025-02-03,RUDAUT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential)
+EV00157,2025-02-03,DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00143,2025-02-03,CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00030,2025-02-03,AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00915,2025-02-03,VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00047,2025-02-03,ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00591,2025-02-04,PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00172,2025-02-04,GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00364,2025-02-05,LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00704,2025-02-06,SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00289,2025-02-06,KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00531,2025-02-07,MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00214,2025-02-07,HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00014,2025-02-10,AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00675,2025-02-10,RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00927,2025-02-10,ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00063,2025-02-10,ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00452,2025-02-10,MAHREN,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval
+EV00769,2025-02-10,SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00867,2025-02-10,VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00380,2025-02-11,LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00229,2025-02-11,HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00576,2025-02-12,NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00201,2025-02-12,HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00304,2025-02-12,KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00261,2025-02-12,JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00903,2025-02-13,VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00124,2025-02-13,CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00417,2025-02-13,MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024
+EV00676,2025-02-13,RUDCON,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale
+EV00868,2025-02-14,VAJHEA,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action
+EV00400,2025-02-18,MAHAUT,Acquisition,Announcement under Reg 30 (LODR): Acquisition
+EV00064,2025-02-19,ARASTE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win

@@ -1,0 +1,929 @@
+symbol,category,subject,jump,event_id,date,is_leaky,leak_sign
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.03979229034936521,EV00000,2022-05-24,False,-1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.009324473692631197,EV00001,2022-08-08,False,-1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.02035578769985618,EV00002,2022-10-31,False,-1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.01585565647092601,EV00003,2023-02-06,False,1
+AMBLIF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.07809928456298705,EV00004,2023-02-13,False,1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.01574896336526272,EV00005,2023-05-15,False,-1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.01941003419741565,EV00006,2023-07-27,False,-1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.03749565886253655,EV00007,2023-11-10,False,1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.004550912152447144,EV00008,2024-02-06,False,-1
+AMBLIF,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.03189342301131376,EV00009,2024-03-21,False,-1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.02166867564626984,EV00010,2024-05-27,False,1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.0011329535254460687,EV00011,2024-08-05,False,1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.0051562815670264705,EV00012,2024-11-13,False,1
+AMBLIF,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.10146577788689984,EV00013,2025-01-29,False,1
+AMBLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.015241041758509625,EV00014,2025-02-10,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.004029597862773336,EV00015,2022-05-09,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.004781079905444527,EV00016,2022-08-02,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.042993802891703466,EV00017,2022-11-11,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.004036724818256765,EV00018,2023-02-01,False,-1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.03725092651865138,EV00019,2023-05-05,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.09850566086431566,EV00020,2023-07-25,False,1
+AMBMOT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.024204262059829798,EV00021,2023-10-16,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.013134011735835754,EV00022,2023-11-06,False,1
+AMBMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.0705467037611395,EV00023,2023-11-29,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.018378359089040917,EV00024,2024-02-06,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.06569977663660749,EV00025,2024-05-21,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.056176959265137334,EV00026,2024-08-06,True,-1
+AMBMOT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.035128518785664614,EV00027,2024-10-31,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.04912146346686266,EV00028,2024-11-08,False,1
+AMBMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,0.09553679767342915,EV00029,2024-12-16,False,1
+AMBMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.0037504275493763215,EV00030,2025-02-03,False,1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.005049953248208921,EV00031,2022-05-23,False,-1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.02947444356981715,EV00032,2022-08-02,False,1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.032121373809613,EV00033,2022-10-26,False,-1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.015798455783753832,EV00034,2023-02-10,False,-1
+ARAFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.11836787470757554,EV00035,2023-02-13,False,1
+ARAFOO,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.027099487107820987,EV00036,2023-04-10,False,-1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.002520617467096828,EV00037,2023-05-22,False,1
+ARAFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,-0.11804838329415676,EV00038,2023-07-13,True,-1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.05971321153446738,EV00039,2023-08-14,True,1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.03918252382810207,EV00040,2023-11-03,False,1
+ARAFOO,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.02295836983001446,EV00041,2023-12-27,False,1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.0471380892072848,EV00042,2024-02-08,False,-1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.00737334072036171,EV00043,2024-05-27,False,1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.05118243422156763,EV00044,2024-08-06,True,1
+ARAFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,-0.028799176530924446,EV00045,2024-08-06,False,-1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.028321815614861048,EV00046,2024-11-06,False,1
+ARAFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.0852731482136563,EV00047,2025-02-03,False,-1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.045014551284807684,EV00048,2022-05-10,False,-1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.0018813397046675711,EV00049,2022-08-12,False,1
+ARASTE,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,0.022425325647780117,EV00050,2022-10-31,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.07546028021207828,EV00051,2022-11-01,False,-1
+ARASTE,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.03681229386148816,EV00052,2022-11-07,False,-1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.014254236280741399,EV00053,2023-01-31,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.013547055528851036,EV00054,2023-05-12,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.005545681767490724,EV00055,2023-07-31,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.035784252887616524,EV00056,2023-10-30,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.00333500254548771,EV00057,2024-02-01,False,-1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.016379170966350234,EV00058,2024-05-27,False,-1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.016373692401838,EV00059,2024-08-12,False,1
+ARASTE,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.029686889443150018,EV00060,2024-10-10,False,1
+ARASTE,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.02178205036305259,EV00061,2024-10-22,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.006828639060001081,EV00062,2024-10-31,False,1
+ARASTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.00461558345924032,EV00063,2025-02-10,False,1
+ARASTE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.1042169227782303,EV00064,2025-02-19,True,1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.03430668050851377,EV00065,2022-05-16,False,1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.024414502230870785,EV00066,2022-07-28,False,-1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.03030789593413001,EV00067,2022-11-07,False,-1
+BHACON,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.02014916573808892,EV00068,2023-02-02,False,1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.010175661225338785,EV00069,2023-02-09,False,1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.012410564153797534,EV00070,2023-05-08,False,-1
+BHACON,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.13497292823686474,EV00071,2023-07-25,False,1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.018750020546929005,EV00072,2023-08-14,False,-1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.03153619102392333,EV00073,2023-11-13,False,-1
+BHACON,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.12224344785141911,EV00074,2023-12-18,False,1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.059597251416265845,EV00075,2024-02-01,False,-1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.05044727799069189,EV00076,2024-05-20,True,-1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.04748671051123871,EV00077,2024-08-12,False,1
+BHACON,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.08619242674131986,EV00078,2024-09-16,False,-1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.026074402855397454,EV00079,2024-11-11,False,-1
+BHACON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.02156823887936595,EV00080,2025-01-30,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.00030781413199500087,EV00081,2022-05-09,False,-1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.014659706037376343,EV00082,2022-08-09,False,-1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0780406144493342,EV00083,2022-10-31,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.044132806324704454,EV00084,2023-02-07,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.04787676077523398,EV00085,2023-05-25,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.07802457636945907,EV00086,2023-07-27,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.03484215990308614,EV00087,2023-10-26,False,1
+CHABEV,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.05601431792313166,EV00088,2023-12-29,True,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.0009807765459056842,EV00089,2024-02-06,False,1
+CHABEV,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.024929431070961364,EV00090,2024-04-25,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.007602915537653676,EV00091,2024-05-27,False,-1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.013668570871183103,EV00092,2024-07-29,False,1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.04904151962618637,EV00093,2024-11-04,False,1
+CHABEV,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.13953334035466475,EV00094,2024-12-31,True,-1
+CHABEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.031900526809805166,EV00095,2025-01-28,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.00736019518801513,EV00096,2022-05-16,False,1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.045920884177697005,EV00097,2022-07-26,False,1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.011031103645982837,EV00098,2022-11-14,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.0443804870895399,EV00099,2023-01-25,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.09623866068707015,EV00100,2023-05-25,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.006593444454253418,EV00101,2023-08-02,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.014856194842366423,EV00102,2023-11-13,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.04194819427808428,EV00103,2024-02-01,False,1
+CHACRE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.12856208147483758,EV00104,2024-02-12,False,1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.005963594817463893,EV00105,2024-05-16,False,-1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.021604855317229048,EV00106,2024-08-05,False,1
+CHACRE,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.0741276594338496,EV00107,2024-08-27,True,1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.019437607997800144,EV00108,2024-11-04,False,1
+CHACRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.03435179122578406,EV00109,2025-02-03,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.013768190458893397,EV00110,2022-05-06,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.022946632140998395,EV00111,2022-08-04,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.03796137178526834,EV00112,2022-11-07,False,-1
+CHAINF,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.11989835922998444,EV00113,2022-11-09,True,-1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.035843459394435874,EV00114,2023-02-01,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.010145991657144028,EV00115,2023-05-08,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.0073161289609597014,EV00116,2023-07-27,False,-1
+CHAINF,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.024250673320130818,EV00117,2023-10-20,False,-1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.023748338299000984,EV00118,2023-10-25,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.008244945472396287,EV00119,2024-01-31,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.030517702828180792,EV00120,2024-05-20,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.021566745899674312,EV00121,2024-08-12,False,-1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.04180279182535607,EV00122,2024-11-07,False,-1
+CHAINF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.051659402258767445,EV00123,2025-01-14,False,1
+CHAINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.06399383590045259,EV00124,2025-02-13,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.004949093478888232,EV00125,2022-05-26,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.0040226869053354465,EV00126,2022-08-05,False,1
+CHAMOT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.030374361053166807,EV00127,2022-10-25,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.005667177854977383,EV00128,2022-11-04,False,1
+CHAMOT,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.027901790512957866,EV00129,2022-11-09,False,1
+CHAMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.11627186874323202,EV00130,2022-11-16,False,1
+CHAMOT,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.014972588405270576,EV00131,2022-11-23,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.03801120935619517,EV00132,2023-02-03,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.0061495159657697475,EV00133,2023-05-08,False,1
+CHAMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.05359518190558639,EV00134,2023-07-17,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.060711402392801844,EV00135,2023-07-31,False,-1
+CHAMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.11651671661147713,EV00136,2023-10-17,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.0062876338273018745,EV00137,2023-11-01,False,1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.012974863456558674,EV00138,2024-01-29,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.03166826261250477,EV00139,2024-05-21,False,-1
+CHAMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.017342951306683303,EV00140,2024-07-10,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.06444394650494166,EV00141,2024-08-05,False,1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.044255062641202485,EV00142,2024-11-01,False,-1
+CHAMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.045567709955722666,EV00143,2025-02-03,False,-1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.04430212238082945,EV00144,2022-05-05,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.018810184897956803,EV00145,2022-07-28,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0690268583180335,EV00146,2022-11-08,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.10611168452887221,EV00147,2023-02-07,False,1
+DECMOT,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.013976389428242881,EV00148,2023-03-21,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.007963529537712713,EV00149,2023-05-08,False,-1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.013922226987907287,EV00150,2023-08-10,False,-1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.013031394602110676,EV00151,2023-10-30,False,1
+DECMOT,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.07898725456664325,EV00152,2023-12-28,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.003987073756857938,EV00153,2024-02-05,False,-1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.06218519464911673,EV00154,2024-05-24,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.00946698851385697,EV00155,2024-07-29,False,1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.03181491930798012,EV00156,2024-10-28,False,-1
+DECMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.0046909527283277965,EV00157,2025-02-03,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.001974404850934977,EV00158,2022-05-23,False,1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.06217394037198032,EV00159,2022-07-27,False,-1
+GARREN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.023696419689821564,EV00160,2022-10-28,False,1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.02288870967729227,EV00161,2022-10-31,False,-1
+GARREN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.0977397061642771,EV00162,2023-01-04,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.035858511951955226,EV00163,2023-02-08,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.03178219952312949,EV00164,2023-05-17,False,1
+GARREN,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.10862014988660418,EV00165,2023-06-08,False,1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.010022814755281148,EV00166,2023-08-10,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.020511807399144554,EV00167,2023-11-13,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.02241715251493991,EV00168,2024-02-01,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.009481276947482808,EV00169,2024-05-27,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.02570357150869554,EV00170,2024-07-30,False,-1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.016978285397398946,EV00171,2024-10-28,False,1
+GARREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.003101488083860856,EV00172,2025-02-04,False,-1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.04628765160330929,EV00173,2022-05-10,False,1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.0005645295346601356,EV00174,2022-08-10,False,1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.016135919820329334,EV00175,2022-11-01,False,-1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.011471126448318233,EV00176,2023-02-02,False,1
+GODSOF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.07566989769444807,EV00177,2023-03-01,False,1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.02044591756733016,EV00178,2023-05-08,False,1
+GODSOF,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.026299275287078712,EV00179,2023-05-08,False,1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.001276826446498102,EV00180,2023-08-14,False,1
+GODSOF,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.1372938694744828,EV00181,2023-08-28,False,-1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.07110668490320594,EV00182,2023-11-10,False,-1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.026675223468554013,EV00183,2024-02-06,False,1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.00980240194083064,EV00184,2024-05-20,False,-1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.030843345660261767,EV00185,2024-07-25,False,-1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.007610414535614145,EV00186,2024-11-13,False,1
+GODSOF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.003510418360519292,EV00187,2025-01-27,False,-1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.03588127180554615,EV00188,2022-05-09,False,-1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.01632150702596458,EV00189,2022-07-27,False,1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.04609237757715313,EV00190,2022-11-02,False,-1
+HAMSTE,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.07627049613727249,EV00191,2022-11-23,False,-1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.0781932578279206,EV00192,2023-02-08,False,1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.03506418893422928,EV00193,2023-05-18,False,1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.0029879983560905836,EV00194,2023-07-25,False,1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.05815267219084786,EV00195,2023-11-13,False,-1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.008927871535371546,EV00196,2024-02-12,False,1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.020719258270549303,EV00197,2024-05-16,False,-1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.0021961339389036374,EV00198,2024-08-05,False,-1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.021545485075145088,EV00199,2024-10-31,False,1
+HAMSTE,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.012566729230551795,EV00200,2024-12-31,False,1
+HAMSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.015710716709813468,EV00201,2025-02-12,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.024465764858637426,EV00202,2022-05-09,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.003034664529474328,EV00203,2022-08-10,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.009579639853621891,EV00204,2022-11-07,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.053650270742344755,EV00205,2023-02-13,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.01809549787340261,EV00206,2023-05-22,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.02149296713705289,EV00207,2023-08-14,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.05630823482444902,EV00208,2023-11-07,False,-1
+HIMCAP,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.10916005655915363,EV00209,2024-01-17,True,1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.03930831206545387,EV00210,2024-01-29,False,1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.001574832267505222,EV00211,2024-05-20,False,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.024708941134458567,EV00212,2024-08-01,False,1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.05809607584968909,EV00213,2024-11-13,True,-1
+HIMCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.031061233865975594,EV00214,2025-02-07,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.0010791379929464516,EV00215,2022-05-18,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.05046925574740046,EV00216,2022-08-02,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.01807787597562915,EV00217,2022-11-04,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.04789170041428911,EV00218,2023-02-08,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.006634442903874748,EV00219,2023-05-15,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.0038972650289338965,EV00220,2023-08-02,False,1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.013602161337338636,EV00221,2023-11-09,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.017730410396658885,EV00222,2024-02-09,False,1
+HIMFOO,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.030806214087601584,EV00223,2024-02-12,False,1
+HIMFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.023405165272424578,EV00224,2024-03-19,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.0459131108022024,EV00225,2024-05-10,False,-1
+HIMFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.10596758275889065,EV00226,2024-08-01,False,1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.027112814969172207,EV00227,2024-08-13,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.020194872998213678,EV00228,2024-11-07,False,-1
+HIMFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.017211159690554718,EV00229,2025-02-11,False,-1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.03764503001500555,EV00230,2022-05-17,False,-1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.0210335749644964,EV00231,2022-08-01,False,1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.011638630958417428,EV00232,2022-11-11,False,1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.023711969473198785,EV00233,2023-01-27,False,1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.026035132448347202,EV00234,2023-05-19,False,-1
+HIMREN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.056044010996147565,EV00235,2023-07-04,False,-1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.03303837336527008,EV00236,2023-08-03,False,-1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.04554054220282108,EV00237,2023-10-30,False,1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.02117476814876057,EV00238,2024-01-30,False,1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.04365239973998577,EV00239,2024-05-16,False,1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.05982291363685545,EV00240,2024-08-12,False,-1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.025843180330698788,EV00241,2024-10-28,False,-1
+HIMREN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.10899134534480012,EV00242,2024-11-27,False,-1
+HIMREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.02977868678339425,EV00243,2025-01-31,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.008888693731672337,EV00244,2022-05-30,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.03207090043760984,EV00245,2022-08-09,False,1
+JALFOO,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.13794734569229217,EV00246,2022-11-01,True,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.060662318612314414,EV00247,2022-11-02,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.01328902837998964,EV00248,2023-01-30,False,-1
+JALFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.011899854361076743,EV00249,2023-04-11,False,1
+JALFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.0983496995324906,EV00250,2023-04-26,False,1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.013193172499338029,EV00251,2023-05-12,False,1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.04650208733973027,EV00252,2023-07-28,False,1
+JALFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.10509989077345573,EV00253,2023-08-14,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.04359722360601556,EV00254,2023-11-13,False,1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.05301641715277388,EV00255,2024-01-29,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.02901923748731185,EV00256,2024-05-21,False,1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.05618449364963987,EV00257,2024-08-06,False,-1
+JALFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.039272080731689814,EV00258,2024-08-14,False,1
+JALFOO,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.012323082557813147,EV00259,2024-08-28,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.0008504084319785422,EV00260,2024-11-11,False,-1
+JALFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.01946263458381028,EV00261,2025-02-12,False,1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.05741239328644089,EV00262,2022-05-24,False,1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.01019218203960227,EV00263,2022-08-01,False,1
+JALMET,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.025888757228784517,EV00264,2022-10-03,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.08374368530563846,EV00265,2022-10-28,False,1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.06642350749649219,EV00266,2023-01-26,False,-1
+JALMET,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.0800684473693958,EV00267,2023-02-24,False,1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.04503065459505317,EV00268,2023-05-10,False,1
+JALMET,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.0353322584249672,EV00269,2023-05-26,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.0007247227437181822,EV00270,2023-08-14,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.02050713736580547,EV00271,2023-10-30,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.03326876725150098,EV00272,2024-02-02,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.0062979030759157135,EV00273,2024-05-06,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.035290811019599175,EV00274,2024-08-12,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.024502941037606113,EV00275,2024-11-11,False,-1
+JALMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.05000854019791974,EV00276,2025-02-03,False,-1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.04767177907984283,EV00277,2022-05-06,False,-1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.02876423537426439,EV00278,2022-07-26,False,-1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0030188842678751985,EV00279,2022-10-31,False,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.004053122849011814,EV00280,2023-01-31,False,-1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.037049348564963544,EV00281,2023-05-29,False,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.007225601544368882,EV00282,2023-07-31,False,-1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.035866485681277045,EV00283,2023-11-06,False,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.020078439180044663,EV00284,2024-02-05,False,-1
+KAKBEV,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.08789494216961409,EV00285,2024-05-06,True,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.04072235350072659,EV00286,2024-05-21,False,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.03865732588219488,EV00287,2024-08-02,False,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.01501378868945196,EV00288,2024-11-04,False,1
+KAKBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.016789168570913563,EV00289,2025-02-06,False,1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.047734761372644145,EV00290,2022-05-26,False,1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.06232583376472147,EV00291,2022-08-08,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.02811340321830968,EV00292,2022-11-14,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.013842818722687786,EV00293,2023-02-06,False,1
+KAVAGR,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.02713502086167223,EV00294,2023-05-10,False,1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.05484703875824034,EV00295,2023-05-12,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.020360247222078635,EV00296,2023-08-08,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.012791435793997876,EV00297,2023-10-26,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.021992988784181752,EV00298,2024-01-26,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.02550136698408346,EV00299,2024-05-27,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.028319245884658534,EV00300,2024-08-08,False,1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.00510336603310856,EV00301,2024-10-28,False,-1
+KAVAGR,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.08892640339181296,EV00302,2024-12-10,False,1
+KAVAGR,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.0840486212801407,EV00303,2025-01-23,False,-1
+KAVAGR,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.00489735092136897,EV00304,2025-02-12,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.03484387648569388,EV00305,2022-05-09,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.002453960555662573,EV00306,2022-08-15,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.019991092320186653,EV00307,2022-11-14,False,1
+KAVSTE,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.014896200541533613,EV00308,2022-12-23,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.02588923779445231,EV00309,2023-02-13,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.028677008397091145,EV00310,2023-05-18,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.013163646669585381,EV00311,2023-08-07,False,-1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.01603286305838447,EV00312,2023-11-03,False,-1
+KAVSTE,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.0631249070662112,EV00313,2024-01-10,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.028668645911924844,EV00314,2024-02-09,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.01872805036818492,EV00315,2024-05-27,False,-1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.018939579337631417,EV00316,2024-08-12,False,1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.028965448425713154,EV00317,2024-10-28,False,-1
+KAVSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.003135746857895213,EV00318,2025-01-27,False,1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.00035686404687661465,EV00319,2022-05-12,False,-1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.005575422434037421,EV00320,2022-08-08,False,1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.0009829076286411193,EV00321,2022-11-14,False,-1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.020364765375747752,EV00322,2023-01-25,False,1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.016681103856339297,EV00323,2023-05-08,False,1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.027649522385366106,EV00324,2023-08-08,False,-1
+KONPOW,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.08139745868417578,EV00325,2023-09-08,False,-1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.004547544895812585,EV00326,2023-11-06,False,1
+KONPOW,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.06631893128892671,EV00327,2024-01-09,False,1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.046671601155697046,EV00328,2024-02-12,False,-1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.0515134322963465,EV00329,2024-05-17,False,-1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.09106609102680913,EV00330,2024-07-29,False,-1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.0071893684436440996,EV00331,2024-10-30,False,1
+KONPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.04578863124079686,EV00332,2025-01-31,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.06707557068573937,EV00333,2022-05-23,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.048270223797200584,EV00334,2022-08-03,False,-1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.034801728797329186,EV00335,2022-11-03,False,-1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.017427302699428254,EV00336,2023-01-26,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.0035789830876595524,EV00337,2023-05-18,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.02684035526651713,EV00338,2023-08-02,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.042864667217768916,EV00339,2023-10-31,False,-1
+LOHALL,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.013247483244245711,EV00340,2024-01-11,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.10001034480989529,EV00341,2024-02-05,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.012825790130004268,EV00342,2024-05-07,False,1
+LOHALL,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.05127122601291416,EV00343,2024-06-14,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.01725009191134458,EV00344,2024-07-30,False,-1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.06335746623803858,EV00345,2024-11-11,False,-1
+LOHALL,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.018380644365811875,EV00346,2024-12-23,False,1
+LOHALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.03825133343845623,EV00347,2025-01-28,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.04077305558158447,EV00348,2022-05-09,False,1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.09003811029394056,EV00349,2022-07-25,False,1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.026250060768697906,EV00350,2022-10-26,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.010714166696098388,EV00351,2023-01-26,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.017157775251357137,EV00352,2023-05-08,False,-1
+LOHINF,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.030815780026270043,EV00353,2023-06-26,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.09669364269858102,EV00354,2023-08-04,False,-1
+LOHINF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.06349473301406547,EV00355,2023-08-17,False,1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.015214481580309695,EV00356,2023-11-13,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.017262764592706877,EV00357,2024-02-09,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.06773834142351885,EV00358,2024-05-15,False,1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.04518601693144474,EV00359,2024-07-25,False,1
+LOHINF,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.07942085166892905,EV00360,2024-09-27,False,1
+LOHINF,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.0540392290228649,EV00361,2024-10-14,False,-1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.009149714445548893,EV00362,2024-11-04,False,1
+LOHINF,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.010258517714012563,EV00363,2024-11-04,False,1
+LOHINF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.00977345438767468,EV00364,2025-02-05,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.06134266440928287,EV00365,2022-05-16,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.02694635934461676,EV00366,2022-08-11,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.03387038853728158,EV00367,2022-11-03,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.008551509931283518,EV00368,2023-02-09,False,-1
+LOHLAB,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.10947813763323196,EV00369,2023-04-21,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.005731743644277059,EV00370,2023-05-22,False,-1
+LOHLAB,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.08729845439973269,EV00371,2023-07-10,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.09221592640452501,EV00372,2023-08-03,False,1
+LOHLAB,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.022445560165784955,EV00373,2023-10-13,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.01945692109548049,EV00374,2023-10-30,False,1
+LOHLAB,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.1337640063085082,EV00375,2024-01-04,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.016292387095819795,EV00376,2024-01-29,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.03538041212497112,EV00377,2024-05-23,False,-1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.02313741835324991,EV00378,2024-08-09,False,-1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.0175379901417863,EV00379,2024-10-29,False,1
+LOHLAB,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.01346689904717475,EV00380,2025-02-11,False,1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.016808440337911835,EV00381,2022-05-26,False,1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.011218913241814175,EV00382,2022-08-02,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.027561894653493388,EV00383,2022-11-02,False,1
+MAHAUT,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.06883496128147559,EV00384,2022-12-12,False,1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.017048974628531235,EV00385,2023-02-08,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.010916195928938997,EV00386,2023-05-23,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.06072416287159015,EV00387,2023-08-03,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.01749258365035296,EV00388,2023-11-06,False,1
+MAHAUT,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.017239430139325863,EV00389,2023-12-07,False,1
+MAHAUT,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.11839865103465375,EV00390,2024-01-01,False,1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.0037881668413040632,EV00391,2024-01-26,False,-1
+MAHAUT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.10671367723469463,EV00392,2024-02-05,False,1
+MAHAUT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.12617087152909726,EV00393,2024-02-16,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.01517696198039657,EV00394,2024-05-13,False,-1
+MAHAUT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.11701217835662303,EV00395,2024-07-02,False,1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.013616315665181707,EV00396,2024-08-05,False,1
+MAHAUT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,-0.0364485166372859,EV00397,2024-09-20,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.013301332176726858,EV00398,2024-11-04,False,-1
+MAHAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.029384883177098826,EV00399,2025-01-27,False,1
+MAHAUT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.10089193246486139,EV00400,2025-02-18,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.027419036886381715,EV00401,2022-05-23,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.03801257539143677,EV00402,2022-08-03,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.04400838662434795,EV00403,2022-11-01,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.05352597176385534,EV00404,2023-02-06,True,1
+MAHCAP,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.09660907181017206,EV00405,2023-02-24,True,1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.0022606379930127578,EV00406,2023-05-09,False,1
+MAHCAP,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.05906853690092358,EV00407,2023-07-21,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.06452415961105484,EV00408,2023-08-14,True,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.02371290409921184,EV00409,2023-11-07,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.06632660474817584,EV00410,2024-02-08,False,-1
+MAHCAP,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.024074003109163505,EV00411,2024-03-04,False,-1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.004094308190836044,EV00412,2024-05-07,False,1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.046276858813060706,EV00413,2024-07-29,False,-1
+MAHCAP,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.017438409749826543,EV00414,2024-08-12,False,1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.018801782790469634,EV00415,2024-11-13,False,-1
+MAHCAP,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.07884093970071096,EV00416,2024-12-11,True,1
+MAHCAP,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.01387429757724737,EV00417,2025-02-13,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.048673990049133975,EV00418,2022-05-16,False,-1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.005040968101913674,EV00419,2022-07-29,False,-1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.010151413876923733,EV00420,2022-10-31,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.05307540352062914,EV00421,2023-02-06,False,1
+MAHMET,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.02073047894577923,EV00422,2023-03-22,False,-1
+MAHMET,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.06389807792199283,EV00423,2023-03-23,False,1
+MAHMET,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.12945430094306704,EV00424,2023-05-26,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.010729796745047024,EV00425,2023-05-29,False,-1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.011394075403183615,EV00426,2023-07-31,False,-1
+MAHMET,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.061803965226623896,EV00427,2023-08-01,True,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.01784643869667875,EV00428,2023-11-03,False,1
+MAHMET,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.13052190981810335,EV00429,2023-11-08,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.013833545075121509,EV00430,2024-02-08,False,-1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.05135134377481648,EV00431,2024-05-20,False,1
+MAHMET,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.019249996118585327,EV00432,2024-07-29,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.08048561825630618,EV00433,2024-08-05,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.003175989731326056,EV00434,2024-11-06,False,1
+MAHMET,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.012506179794871938,EV00435,2025-01-31,False,1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.07749655798650511,EV00436,2022-05-25,False,-1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.04163677018506751,EV00437,2022-08-11,False,1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.0053559056672174594,EV00438,2022-10-25,False,-1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.02460741783142308,EV00439,2023-02-08,False,-1
+MAHREN,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.035400131515247305,EV00440,2023-05-22,False,1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.004177816974690689,EV00441,2023-05-24,False,-1
+MAHREN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.014051142881687082,EV00442,2023-06-12,False,1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.0820520157946606,EV00443,2023-07-31,True,-1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.03299680304288464,EV00444,2023-11-08,False,1
+MAHREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.12224485447595292,EV00445,2023-11-15,False,1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.01594347457512007,EV00446,2024-01-29,False,-1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.04852547886445677,EV00447,2024-05-09,False,-1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.006084319503311573,EV00448,2024-08-08,False,-1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.02553520179474763,EV00449,2024-11-11,False,-1
+MAHREN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.029177510210685098,EV00450,2025-01-06,False,1
+MAHREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.015838844664285718,EV00451,2025-01-27,False,1
+MAHREN,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.023914843313886283,EV00452,2025-02-10,False,1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.009144253686443891,EV00453,2022-05-17,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.0012137737506506456,EV00454,2022-08-01,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.06599505165552148,EV00455,2022-10-31,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.001967197858120315,EV00456,2023-02-09,False,1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.009847949716699536,EV00457,2023-05-22,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.01707969797816056,EV00458,2023-08-04,False,1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.03776350154670219,EV00459,2023-10-26,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.01218594267928362,EV00460,2024-02-02,False,-1
+MALDIG,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.10062753086803808,EV00461,2024-05-01,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.02674400419256264,EV00462,2024-05-20,False,1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.027374488368315904,EV00463,2024-07-26,False,1
+MALDIG,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,-0.012278450977156224,EV00464,2024-11-08,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.05138923159540966,EV00465,2024-11-11,False,-1
+MALDIG,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.008982203337853531,EV00466,2025-01-30,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.02734134218283096,EV00467,2022-05-23,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.0024750457103561918,EV00468,2022-08-08,False,-1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0015630398337213244,EV00469,2022-11-01,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.004612944945378699,EV00470,2023-02-06,False,1
+MALFIN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.0875033692774217,EV00471,2023-02-13,True,-1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.04527267007684316,EV00472,2023-05-29,False,-1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.008229198010308279,EV00473,2023-08-10,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.04254188457741928,EV00474,2023-10-30,False,1
+MALFIN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.1330465186242651,EV00475,2024-01-30,False,-1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.027283529727000762,EV00476,2024-02-12,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.010055176636272731,EV00477,2024-05-22,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.02333627975723995,EV00478,2024-08-05,False,-1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.005363083609037497,EV00479,2024-10-30,False,-1
+MALFIN,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.012860603595485808,EV00480,2024-12-12,False,1
+MALFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.04370599137476991,EV00481,2025-01-29,False,-1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.03484915793946324,EV00482,2022-05-30,False,-1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.0037636810493122392,EV00483,2022-08-05,False,-1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.019401550162133675,EV00484,2022-11-02,False,1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.041871881987958645,EV00485,2023-01-31,False,1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.0026389840101121794,EV00486,2023-05-08,False,1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.038362248157001316,EV00487,2023-08-07,False,1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.020313858770051117,EV00488,2023-11-06,False,1
+MERAUT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.014831370484598198,EV00489,2023-11-06,False,-1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.02326053352905089,EV00490,2024-02-02,False,-1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.03658419734894659,EV00491,2024-05-27,False,-1
+MERAUT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.11156000932049506,EV00492,2024-06-13,False,1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.021728748498820605,EV00493,2024-08-12,False,-1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.027516974402852005,EV00494,2024-10-28,False,1
+MERAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.0054295601336340135,EV00495,2025-01-27,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.06518696634186782,EV00496,2022-05-05,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.06091760461597355,EV00497,2022-08-09,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0006067120202957565,EV00498,2022-11-14,False,1
+MERFIN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.06139074129115643,EV00499,2022-11-21,True,1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.016394899426481025,EV00500,2023-02-03,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.070382413934018,EV00501,2023-05-08,False,1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.025413442650621707,EV00502,2023-08-11,False,1
+MERFIN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.13880407212033802,EV00503,2023-09-06,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.032587572077973616,EV00504,2023-11-06,False,-1
+MERFIN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.12824256441906715,EV00505,2023-11-07,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.0012881924683934164,EV00506,2024-02-05,False,1
+MERFIN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,0.06946423788177963,EV00507,2024-04-04,False,1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.0060552498878279045,EV00508,2024-05-13,False,1
+MERFIN,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.12582095013074007,EV00509,2024-07-22,False,-1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.006310745799733693,EV00510,2024-07-29,False,-1
+MERFIN,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.012807488360151182,EV00511,2024-10-24,False,1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.0004925229005726683,EV00512,2024-10-28,False,1
+MERFIN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.06692938053092162,EV00513,2024-10-31,False,1
+MERFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.028468664432133677,EV00514,2025-01-31,False,-1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.04311562970012562,EV00515,2022-05-16,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.008711975953626034,EV00516,2022-08-15,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.03530339245841937,EV00517,2022-10-25,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.042620381560789775,EV00518,2023-02-13,False,1
+MERLIF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.01886172384129552,EV00519,2023-02-23,False,-1
+MERLIF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.11908949294288675,EV00520,2023-03-21,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.0321798286826445,EV00521,2023-05-05,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.012557862936718903,EV00522,2023-07-27,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.031684079052288414,EV00523,2023-11-08,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.021051128404565207,EV00524,2024-01-31,False,-1
+MERLIF,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.05690663839037276,EV00525,2024-02-01,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.05973686741466407,EV00526,2024-05-14,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.028170819805183267,EV00527,2024-08-05,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.004330900504398656,EV00528,2024-11-07,False,1
+MERLIF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.1348254157310133,EV00529,2024-11-21,False,1
+MERLIF,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.08009233040456532,EV00530,2024-12-20,False,1
+MERLIF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.0003844012403840463,EV00531,2025-02-07,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.03820542667821153,EV00532,2022-05-20,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.004868910891655716,EV00533,2022-07-25,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.003355926089808981,EV00534,2022-11-14,False,-1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.0025199507353925966,EV00535,2023-02-01,False,-1
+NARMOT,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.0316410663254152,EV00536,2023-03-16,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.04408970485081421,EV00537,2023-05-22,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.031143139627194356,EV00538,2023-08-03,False,-1
+NARMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.11615723998356806,EV00539,2023-08-28,False,-1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.01722864810678852,EV00540,2023-11-06,False,-1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.013072989901329645,EV00541,2024-02-12,False,-1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.016985614907209925,EV00542,2024-05-13,False,1
+NARMOT,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.03988047265307581,EV00543,2024-07-30,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.03111441131416269,EV00544,2024-08-12,False,1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.04982458152927616,EV00545,2024-10-31,False,1
+NARMOT,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.03330721164870491,EV00546,2024-11-28,False,-1
+NARMOT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.0326983672451786,EV00547,2025-01-27,False,-1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.026664917091486225,EV00548,2022-05-16,False,1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.006734739121886347,EV00549,2022-07-28,False,1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.03962183009449624,EV00550,2022-10-31,False,1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.05566583042706082,EV00551,2023-01-30,True,1
+NARSYS,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.07220525481315242,EV00552,2023-04-27,False,-1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.013127175316231905,EV00553,2023-05-25,False,1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.042695651069453264,EV00554,2023-08-11,False,-1
+NARSYS,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.06696772104867443,EV00555,2023-09-12,True,-1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.029076945856186753,EV00556,2023-11-13,False,-1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.0005963261268112056,EV00557,2024-02-05,False,-1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.009907400580349637,EV00558,2024-05-23,False,1
+NARSYS,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.13260739969631608,EV00559,2024-07-08,False,-1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.06178271103559973,EV00560,2024-07-29,False,-1
+NARSYS,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.1024379914383084,EV00561,2024-11-07,False,1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.034083667510105824,EV00562,2024-11-12,False,1
+NARSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.007132365139359172,EV00563,2025-01-27,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.0007939846363976358,EV00564,2022-05-16,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.03750954644016106,EV00565,2022-08-08,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.012376515956477555,EV00566,2022-11-07,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.011297911243263684,EV00567,2023-02-02,False,1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.040252992295332725,EV00568,2023-05-16,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.04135176737750871,EV00569,2023-07-27,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.019820322045335223,EV00570,2023-11-10,False,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.04638013551061936,EV00571,2024-01-30,False,1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.011560148096580717,EV00572,2024-05-10,False,1
+NILPOW,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.07123975363584975,EV00573,2024-07-22,False,1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.017455180437440317,EV00574,2024-07-29,False,1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.07375173215653909,EV00575,2024-11-04,True,-1
+NILPOW,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.0699129962231667,EV00576,2025-02-12,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.043150231015815325,EV00577,2022-05-23,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.034847218214124134,EV00578,2022-07-29,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.02415404394031811,EV00579,2022-11-09,False,-1
+PALALL,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.03398537817154686,EV00580,2022-12-02,False,-1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.004940915659142406,EV00581,2023-01-30,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.061476685226121,EV00582,2023-05-09,False,-1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.04503947919259261,EV00583,2023-08-14,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.06684170170111983,EV00584,2023-10-25,False,-1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.03612112858065522,EV00585,2024-02-05,False,-1
+PALALL,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.11078100236085697,EV00586,2024-05-14,False,-1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.002216195089883599,EV00587,2024-05-27,False,-1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.04896977335936306,EV00588,2024-08-02,False,1
+PALALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.08192527890768952,EV00589,2024-10-08,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.03340219151820941,EV00590,2024-11-11,False,1
+PALALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.0050970610020359694,EV00591,2025-02-04,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.011915415522554092,EV00592,2022-05-27,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.021687504405490412,EV00593,2022-08-12,False,-1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.03211981410750908,EV00594,2022-11-07,False,-1
+PALCOM,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.024312485987421292,EV00595,2022-12-28,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.037247332110030305,EV00596,2023-01-27,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.02410140953426107,EV00597,2023-05-08,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.001375957310850371,EV00598,2023-07-31,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.02718826946028013,EV00599,2023-11-10,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.030208063131587432,EV00600,2024-01-29,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.006199194050176058,EV00601,2024-05-28,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.013300815466701461,EV00602,2024-08-12,False,1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.03454693040879103,EV00603,2024-11-04,False,-1
+PALCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.024921895816403715,EV00604,2025-01-27,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.0038045753484693386,EV00605,2022-05-09,False,1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.0670447807564148,EV00606,2022-08-09,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.00974165288496765,EV00607,2022-11-07,False,1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.01994216905140749,EV00608,2023-02-02,False,-1
+PALCRE,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,0.06836118318986369,EV00609,2023-02-06,False,1
+PALCRE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,-0.10492609565334657,EV00610,2023-04-13,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.022201584773394095,EV00611,2023-05-10,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.014717792020291184,EV00612,2023-07-27,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.018682857888072297,EV00613,2023-10-30,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.018733944832070245,EV00614,2024-02-05,False,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.05118600846989535,EV00615,2024-05-06,True,-1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.02635052585021082,EV00616,2024-07-31,False,1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.029511100850793417,EV00617,2024-11-04,False,1
+PALCRE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.01046213534044528,EV00618,2025-01-31,False,1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.0013684622425793544,EV00619,2022-05-13,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.03158772772551521,EV00620,2022-08-08,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.010674062654958502,EV00621,2022-11-09,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.028209776309112918,EV00622,2023-01-30,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.04877853695281601,EV00623,2023-05-29,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.017230391917831288,EV00624,2023-07-31,False,1
+PALPHA,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.13273210239955033,EV00625,2023-09-04,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.02171815172270316,EV00626,2023-10-31,False,-1
+PALPHA,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.05708689608946255,EV00627,2023-11-17,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.026061817475349712,EV00628,2024-01-26,False,-1
+PALPHA,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.07587257166935807,EV00629,2024-03-08,True,1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.001914655289724496,EV00630,2024-05-22,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.036280369120438,EV00631,2024-08-13,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.002958195852901571,EV00632,2024-11-08,False,-1
+PALPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.08334435690426722,EV00633,2025-01-29,False,-1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.03673245120521616,EV00634,2022-05-06,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.05178117503482676,EV00635,2022-07-27,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.006652508551526072,EV00636,2022-10-26,False,-1
+RUDAUT,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.032959636718159095,EV00637,2023-01-03,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.0066005146552103435,EV00638,2023-02-10,False,-1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.028410749849877567,EV00639,2023-05-15,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.006172808267126563,EV00640,2023-07-28,False,-1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.02421194100508096,EV00641,2023-11-13,False,-1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.026230995539229734,EV00642,2024-02-05,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.02280392172253857,EV00643,2024-05-07,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.0013037238393244432,EV00644,2024-07-29,False,-1
+RUDAUT,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.09384038779247797,EV00645,2024-09-06,False,1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.006914469888462623,EV00646,2024-11-11,False,1
+RUDAUT,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.056175877139797305,EV00647,2024-12-26,False,-1
+RUDAUT,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.07652546925626987,EV00648,2025-02-03,False,-1
+RUDAUT,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.05606368746197057,EV00649,2025-02-03,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.0835433129850873,EV00650,2022-05-24,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.003593173186422153,EV00651,2022-08-01,False,-1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0629400695323072,EV00652,2022-11-01,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.024367421805296493,EV00653,2023-01-26,False,-1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.007838859993070671,EV00654,2023-05-29,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.009868455358795502,EV00655,2023-08-07,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.024453815259469044,EV00656,2023-11-13,False,-1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.055931833134684986,EV00657,2024-02-06,True,-1
+RUDBEV,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,0.09460445703810288,EV00658,2024-03-15,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.004729320815382873,EV00659,2024-05-14,False,1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.007959679442535941,EV00660,2024-08-09,False,-1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.056526781170467576,EV00661,2024-10-31,True,-1
+RUDBEV,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.012758376329748081,EV00662,2025-01-29,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.027509181277597442,EV00663,2022-05-16,False,-1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.0069433406219253846,EV00664,2022-07-27,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.026852597398572414,EV00665,2022-10-25,False,-1
+RUDCON,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.12583891595463767,EV00666,2022-11-07,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.047608520315726106,EV00667,2023-02-13,False,-1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.013675375913111364,EV00668,2023-05-15,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.008108115548278111,EV00669,2023-08-10,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.03378096724550331,EV00670,2023-11-13,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.013720382807801487,EV00671,2024-01-29,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.0106343098973147,EV00672,2024-05-23,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.018578763984537658,EV00673,2024-08-05,False,-1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.0774953415527169,EV00674,2024-11-06,False,1
+RUDCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.023305719889215273,EV00675,2025-02-10,False,-1
+RUDCON,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.09273891528281336,EV00676,2025-02-13,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.026974457373316718,EV00677,2022-05-06,False,1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.030001174132210044,EV00678,2022-07-27,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.0003126853762189743,EV00679,2022-11-11,False,-1
+RUDSTE,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,-0.053616341536562334,EV00680,2022-12-07,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.04405822608895178,EV00681,2023-01-30,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.03668103521660385,EV00682,2023-05-19,False,1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.03880810412283138,EV00683,2023-08-01,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.008031112756045039,EV00684,2023-10-30,False,1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.016478758022143766,EV00685,2024-02-12,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.025876410898621617,EV00686,2024-05-06,False,1
+RUDSTE,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.11047860838921474,EV00687,2024-06-19,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.03168778244386413,EV00688,2024-08-09,False,-1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.005392799725210403,EV00689,2024-11-13,False,1
+RUDSTE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.04333561055214474,EV00690,2025-01-27,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.019258881006179476,EV00691,2022-05-17,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.032879714762936336,EV00692,2022-08-04,False,1
+SAHSYS,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.03503268256453469,EV00693,2022-10-25,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.03415964824355445,EV00694,2022-11-03,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.018058546686874545,EV00695,2023-01-27,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.016962522895909583,EV00696,2023-05-25,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.03531380921558886,EV00697,2023-08-04,False,-1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.015536557274656467,EV00698,2023-10-30,False,-1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.022666489202684662,EV00699,2024-02-12,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.006096109677741954,EV00700,2024-05-27,False,-1
+SAHSYS,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,-0.12312569921451492,EV00701,2024-05-29,True,-1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.03806091170519626,EV00702,2024-08-12,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.030210275854644864,EV00703,2024-10-28,False,1
+SAHSYS,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.02344982839073779,EV00704,2025-02-06,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.02040902753059419,EV00705,2022-05-25,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.030317882030048503,EV00706,2022-07-27,False,1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.02563497334169934,EV00707,2022-11-08,False,1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.014125724148176694,EV00708,2023-02-01,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.0302114981820497,EV00709,2023-05-10,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.04725346913442474,EV00710,2023-08-04,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.056148018663975494,EV00711,2023-11-08,False,1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.04066770422330307,EV00712,2024-02-07,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.023704596440324726,EV00713,2024-05-14,False,-1
+SATCON,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.024259168536508124,EV00714,2024-05-30,False,1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.044611644070542716,EV00715,2024-08-05,False,-1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.0033189400905631484,EV00716,2024-11-06,False,1
+SATCON,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.07631281730583661,EV00717,2025-01-27,False,-1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.009083961795003846,EV00718,2022-05-06,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.016979289560435335,EV00719,2022-08-01,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.01179348366210667,EV00720,2022-10-25,False,1
+SATREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.0932548233643509,EV00721,2022-10-28,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.04724535943035007,EV00722,2023-01-27,False,-1
+SATREN,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.08534390527048315,EV00723,2023-02-15,True,-1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.0305322037986619,EV00724,2023-05-24,False,1
+SATREN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.11046988271889428,EV00725,2023-08-04,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.040228189433523624,EV00726,2023-08-14,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.0015656526965753795,EV00727,2023-11-02,False,-1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.033814538835143716,EV00728,2024-02-05,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.012962971338138746,EV00729,2024-05-10,False,-1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.022661079996783174,EV00730,2024-08-07,False,-1
+SATREN,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.01986830951429478,EV00731,2024-08-28,False,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.057550559858179175,EV00732,2024-10-25,True,1
+SATREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.011810041393716114,EV00733,2025-01-28,False,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.04624774250758443,EV00734,2022-05-26,False,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.04978021176758399,EV00735,2022-08-11,False,1
+SHIALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.1202827091927702,EV00736,2022-10-14,False,1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0073687134776236375,EV00737,2022-11-03,False,1
+SHIALL,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.11847549562890865,EV00738,2022-12-13,False,1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.007769397218669491,EV00739,2023-02-10,False,1
+SHIALL,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,0.023608425353638655,EV00740,2023-04-13,False,1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.048430212641754976,EV00741,2023-05-10,False,1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.056959046881264006,EV00742,2023-08-10,False,1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.00206647760567694,EV00743,2023-11-02,False,-1
+SHIALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,-0.054272614768978496,EV00744,2024-01-23,True,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.016988867101994307,EV00745,2024-01-31,False,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.02682616419691842,EV00746,2024-05-13,False,-1
+SHIALL,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.1324452498171645,EV00747,2024-07-30,False,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.08158586350453247,EV00748,2024-08-07,False,1
+SHIALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.01509821774083202,EV00749,2024-10-16,False,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.02868066504162642,EV00750,2024-10-28,False,1
+SHIALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.10817843342524541,EV00751,2025-01-14,False,-1
+SHIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.04371579439057233,EV00752,2025-01-31,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.021882417570281296,EV00753,2022-05-18,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.033775445367282865,EV00754,2022-08-08,False,-1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.009733370254576828,EV00755,2022-11-09,False,-1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.011370965158860456,EV00756,2023-01-25,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.06574326961975953,EV00757,2023-05-05,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.0025717531556640138,EV00758,2023-08-03,False,-1
+SHIFIN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.11347160529126542,EV00759,2023-10-20,True,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.014914338138679924,EV00760,2023-11-09,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.017521635109602862,EV00761,2024-02-08,False,-1
+SHIFIN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.11824695891172735,EV00762,2024-02-28,True,-1
+SHIFIN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.1049022057600421,EV00763,2024-05-16,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.05422400117204853,EV00764,2024-05-23,False,-1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.037579584445123035,EV00765,2024-08-01,False,-1
+SHIFIN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.024951236410653926,EV00766,2024-10-04,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.06043123383933225,EV00767,2024-10-31,False,-1
+SHIFIN,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.11747564156491233,EV00768,2024-12-26,False,1
+SHIFIN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.03664821022682591,EV00769,2025-02-10,False,-1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.036340147514433666,EV00770,2022-05-16,False,1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.049396094505684926,EV00771,2022-08-09,False,1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.0030742487511294884,EV00772,2022-10-31,False,-1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.0412634102507077,EV00773,2023-02-13,False,1
+SHIREA,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.08490776225743585,EV00774,2023-02-22,True,1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.031412253979913186,EV00775,2023-05-15,False,-1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.0068774447139337575,EV00776,2023-08-07,False,-1
+SHIREA,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.021799056510979235,EV00777,2023-08-31,False,1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.02895104798674278,EV00778,2023-11-10,False,1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.058381210996118385,EV00779,2024-02-08,False,-1
+SHIREA,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.0714906796422815,EV00780,2024-02-22,True,1
+SHIREA,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.1353781821124573,EV00781,2024-02-23,False,1
+SHIREA,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,-0.12873657639246472,EV00782,2024-05-10,True,-1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.02883023244653273,EV00783,2024-05-20,False,1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.01372791045220991,EV00784,2024-08-05,False,-1
+SHIREA,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.1303235903488694,EV00785,2024-11-01,False,-1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.06498836406790581,EV00786,2024-11-04,True,-1
+SHIREA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.0002648553820902723,EV00787,2025-01-31,False,-1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.02541101615636995,EV00788,2022-05-26,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.04093866003585467,EV00789,2022-08-09,False,-1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.026420166236591505,EV00790,2022-11-14,False,1
+SHIREN,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.13318523453111547,EV00791,2022-11-25,False,-1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.01148417099199798,EV00792,2023-02-02,False,-1
+SHIREN,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.13778638914435995,EV00793,2023-03-10,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.08806333185204682,EV00794,2023-05-10,False,-1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.035634116403154004,EV00795,2023-08-07,False,-1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.018592813000740352,EV00796,2023-11-03,False,1
+SHIREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.1204554339550206,EV00797,2023-11-09,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.006452834751148241,EV00798,2024-02-02,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.06828302189403423,EV00799,2024-05-08,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.0009601673964303259,EV00800,2024-07-25,False,-1
+SHIREN,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.07238071958325559,EV00801,2024-08-01,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.010655243298483547,EV00802,2024-11-06,False,1
+SHIREN,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.0009914360779029337,EV00803,2025-02-03,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.02703889326539663,EV00804,2022-05-16,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.0015475951015064087,EV00805,2022-08-09,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.028319409472936395,EV00806,2022-10-31,False,-1
+SUNALL,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.060680963037096046,EV00807,2022-11-21,True,-1
+SUNALL,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.1148936499200053,EV00808,2023-02-02,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.0009806224713510378,EV00809,2023-02-03,False,-1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.006761355293461943,EV00810,2023-05-11,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.01833204724894324,EV00811,2023-08-09,False,-1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.014780115669387585,EV00812,2023-11-01,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.0034300669934784014,EV00813,2024-02-05,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.08182457917102579,EV00814,2024-05-24,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.011343122781201647,EV00815,2024-07-25,False,1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.027958201071254372,EV00816,2024-11-11,False,-1
+SUNALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.05607745829762481,EV00817,2024-12-24,False,-1
+SUNALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.008712686863883028,EV00818,2025-01-28,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.014572885184863433,EV00819,2022-05-09,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.022094615554255174,EV00820,2022-08-15,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.03179376540435566,EV00821,2022-10-26,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.10723229532093387,EV00822,2023-01-30,True,-1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.04473309269491312,EV00823,2023-05-11,False,-1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.019128822755993233,EV00824,2023-07-27,False,-1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.06944501280951486,EV00825,2023-10-30,False,-1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.00046744570402854996,EV00826,2024-02-12,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.038672917113520396,EV00827,2024-05-20,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.01604956976742591,EV00828,2024-07-31,False,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.012705323670008081,EV00829,2024-10-28,False,1
+TRIALL,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.07592539718499267,EV00830,2024-10-31,True,1
+TRIALL,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.07971006569946346,EV00831,2025-01-29,False,1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.029613574766206584,EV00832,2022-05-09,False,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.03301059735292864,EV00833,2022-08-10,False,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.007971794095347,EV00834,2022-10-28,False,-1
+VAJFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.08514018593572639,EV00835,2022-12-05,True,-1
+VAJFOO,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,-0.03235843516463717,EV00836,2023-02-01,False,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.003563721458615452,EV00837,2023-02-08,False,1
+VAJFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.11857533607077578,EV00838,2023-03-10,True,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.04944243579104276,EV00839,2023-05-18,False,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.04834073760217709,EV00840,2023-07-27,False,-1
+VAJFOO,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,0.0861528897952234,EV00841,2023-09-05,False,1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.01720084064788566,EV00842,2023-10-31,False,1
+VAJFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,0.07900877463290798,EV00843,2023-11-28,False,1
+VAJFOO,Open Offer / Buyback,Announcement under Reg 30 (LODR): Open Offer / Buyback,-0.12746600256783827,EV00844,2023-12-29,False,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.047686038540007455,EV00845,2024-02-13,False,1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.06635948197011225,EV00846,2024-05-28,False,-1
+VAJFOO,Acquisition,Announcement under Reg 30 (LODR): Acquisition,-0.034116482209266205,EV00847,2024-06-25,False,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.03277401459551265,EV00848,2024-08-05,False,1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.054085498093506525,EV00849,2024-11-11,True,-1
+VAJFOO,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.038343284402353336,EV00850,2025-01-27,False,1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.02238261868106165,EV00851,2022-05-10,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.018841067100155293,EV00852,2022-08-03,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.00867816462981562,EV00853,2022-10-31,False,1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.030556981003246022,EV00854,2023-02-10,False,1
+VAJHEA,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.034817637867722094,EV00855,2023-04-04,False,1
+VAJHEA,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.12305771340973387,EV00856,2023-04-20,False,1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.018718396837649528,EV00857,2023-05-15,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.005433748663167583,EV00858,2023-08-01,False,-1
+VAJHEA,Large Order Win,Announcement under Reg 30 (LODR): Large Order Win,-0.06522212366445702,EV00859,2023-08-03,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.04836821609772715,EV00860,2023-11-08,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.00624488191334359,EV00861,2024-01-29,False,1
+VAJHEA,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.03917038743800794,EV00862,2024-04-15,False,1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,-0.04371709897373185,EV00863,2024-05-22,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.016301885770032724,EV00864,2024-08-05,False,-1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.08311122925092511,EV00865,2024-11-04,True,1
+VAJHEA,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.012139136025545363,EV00866,2024-12-02,False,1
+VAJHEA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.007127161254843043,EV00867,2025-02-10,False,1
+VAJHEA,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,-0.12939575632960532,EV00868,2025-02-14,False,-1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.033625700765806246,EV00869,2022-05-10,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,-0.06908418544506374,EV00870,2022-08-01,False,-1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.009583134586323185,EV00871,2022-11-14,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.005956193011717628,EV00872,2023-01-31,False,1
+VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.03546376339408266,EV00873,2023-03-03,False,1
+VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.019490843720101455,EV00874,2023-03-15,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.016174447631035597,EV00875,2023-05-11,False,-1
+VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.086749072036969,EV00876,2023-06-23,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,0.0326423595046892,EV00877,2023-08-09,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.016939380288303447,EV00878,2023-11-13,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.07376912856650411,EV00879,2024-01-31,False,-1
+VINENE,Credit Rating Action,Announcement under Reg 30 (LODR): Credit Rating Action,0.061450336570264524,EV00880,2024-02-05,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.026923267281299488,EV00881,2024-05-20,False,1
+VINENE,Regulatory Approval,Announcement under Reg 30 (LODR): Regulatory Approval,-0.07050810078975504,EV00882,2024-07-18,True,-1
+VINENE,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.011948403376298308,EV00883,2024-07-29,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.022559544419439304,EV00884,2024-07-31,False,1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.03078748495786273,EV00885,2024-10-29,False,-1
+VINENE,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.030118539778650595,EV00886,2025-01-29,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.014311468157307635,EV00887,2022-05-11,False,-1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.03999062279765402,EV00888,2022-08-01,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,0.0007013051803209094,EV00889,2022-10-27,False,1
+VININF,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),0.10309867000187123,EV00890,2022-12-26,False,1
+VININF,Fund Raise (QIP/Preferential),Announcement under Reg 30 (LODR): Fund Raise (QIP/Preferential),-0.07507454473701058,EV00891,2023-01-05,False,-1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.01903569514392631,EV00892,2023-02-02,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.016974640349160342,EV00893,2023-05-24,False,-1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-3.919026992615597e-05,EV00894,2023-07-31,False,-1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.07822624242645332,EV00895,2023-11-08,False,-1
+VININF,Litigation Outcome,Announcement under Reg 30 (LODR): Litigation Outcome,-0.07203692724743443,EV00896,2023-11-20,True,-1
+VININF,Acquisition,Announcement under Reg 30 (LODR): Acquisition,0.03937729718760383,EV00897,2024-01-25,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.068060922729108,EV00898,2024-02-12,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.05515721009908864,EV00899,2024-05-13,False,1
+VININF,Block Deal / Promoter Stake Sale,Announcement under Reg 30 (LODR): Block Deal / Promoter Stake Sale,0.07636423158534535,EV00900,2024-07-16,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.03569160648835123,EV00901,2024-07-29,False,-1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.03192533385918726,EV00902,2024-10-28,False,1
+VININF,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,0.007850128979592358,EV00903,2025-02-13,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,0.02690113179237292,EV00904,2022-05-16,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.04565797939904429,EV00905,2022-07-28,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.02591805371753919,EV00906,2022-11-07,False,-1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,-0.04756070360730555,EV00907,2023-01-30,False,-1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,0.037564024112620505,EV00908,2023-05-19,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.035997648432944444,EV00909,2023-08-07,False,-1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,-0.007600026457670992,EV00910,2023-10-31,False,-1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,-0.017316195068399928,EV00911,2024-02-01,False,-1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.019388372709836333,EV00912,2024-05-08,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,0.02171303378759753,EV00913,2024-08-05,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,0.015477772171280985,EV00914,2024-10-25,False,1
+VINPHA,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.015448380932808245,EV00915,2025-02-03,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2022,-0.018354521253986508,EV00916,2022-05-18,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2022,0.00579642525814281,EV00917,2022-08-15,False,1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2022,-0.0019580901215843884,EV00918,2022-10-31,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2022,0.007542778925561477,EV00919,2023-02-06,False,1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2023,-0.03249134457761596,EV00920,2023-05-19,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2023,-0.04486479367050329,EV00921,2023-07-25,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2023,0.0010502288485829043,EV00922,2023-10-25,False,1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2023,0.010608565973261564,EV00923,2024-01-29,False,1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Mar-2024,0.00436440471779714,EV00924,2024-05-13,False,1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Jun-2024,-0.05376953099154857,EV00925,2024-07-30,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 30-Sep-2024,-0.051702278721136107,EV00926,2024-10-31,False,-1
+ZANCOM,Financial Results,Outcome of Board Meeting - Financial Results for quarter ended 31-Dec-2024,-0.00028979593753554396,EV00927,2025-02-10,False,-1

@@ -1,0 +1,9 @@
+model,roc_auc,pr_auc,precision@25,precision@50,precision@100,recall@top5%
+Ensemble (final),0.9871,0.8226,0.96,0.94,0.78,0.8269
+Isolation Forest,0.979,0.7634,0.96,0.9,0.74,0.7981
+Local Outlier Factor,0.628,0.1308,0.28,0.26,0.17,0.2404
+Autoencoder,0.9564,0.7029,1.0,0.88,0.64,0.7212
+SEBI rules only,0.9854,0.6676,0.92,0.76,0.64,0.7692
+Baseline: trade size,0.7343,0.0672,0.0,0.02,0.03,0.0577
+Baseline: post-trade CAR,0.8618,0.2776,0.52,0.4,0.33,0.375
+"Supervised GBM (CV, reference)",0.9962,0.934,1.0,1.0,0.88,0.9615

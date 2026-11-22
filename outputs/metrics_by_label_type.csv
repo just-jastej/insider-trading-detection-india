@@ -1,0 +1,7 @@
+label_type,flagged_top5pct,n,share_flagged
+benign,27,2545,0.0106
+benign_creeping_acquisition,1,70,0.0143
+benign_window_lapse,31,162,0.1914
+insider_ring,43,43,1.0
+insider_single,28,35,0.8
+insider_window_violation,15,26,0.5769
